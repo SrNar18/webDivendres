@@ -105,6 +105,11 @@ h6 {
   transition: 0.3s;
 }
 
+.navmenu {
+  margin-left: auto;
+  margin-right: 20px; 
+}
+
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
   color: var(--contrast-color);
